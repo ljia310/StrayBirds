@@ -1,6 +1,6 @@
 username: ljia310
-baseurl: /blogs
+baseurl: /blog
 markdown: redcarpet
 safe: false
 pygments: true
-title: 飞鸟集
+title: 6+的blog
