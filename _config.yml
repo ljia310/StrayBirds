@@ -1,5 +1,5 @@
 username: ljia310
-baseurl: /blog
+baseurl: /blogs
 markdown: redcarpet
 safe: false
 pygments: true
